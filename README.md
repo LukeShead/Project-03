@@ -68,3 +68,8 @@ void solution(string a, string w){ // Give no return on the two strings
       lastScore = currentScore; // gives the answer.
   }
 }
+
+
+### IDE's and implementation.
+
+When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to a 
