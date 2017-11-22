@@ -1,5 +1,9 @@
 # Project-03
-Anagram solver
+## Anagram solver
+
+### About the project.
+
+This project is to design an anagram solver, the user will be given an input area, here they can enter up to 3 letters and here they will be able to see a word that matches the most with the letters that they have entered, if they enter special characters or even numbers the acronym will not be shown and a message will print telling them that it is not letters. The purpose of the game is to allow the user to solve acronyms that they need to.
 
 
 ### This is the code I used
@@ -21,7 +25,7 @@ int main() {
 
 
       string userin; // userin is the string for the input.
-  do {
+  do { 
     cout << "Enter 3 letters here: ";
     getline(cin, userin); // Getline is where it retrieves the input for userin.
   } while(userin.length() > 3);// loop for entering 3 letters.
@@ -72,4 +76,4 @@ void solution(string a, string w){ // Give no return on the two strings
 
 ### IDE's and implementation.
 
-When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to a 
+When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to use Repl.it as my usual IDE unless specified 
