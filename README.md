@@ -8,6 +8,7 @@ This project is to design an anagram solver, the user will be given an input are
 
 ### This is the code I used
 
+``` cpp
 #include <iostream> // allows input and output on a system
 #include <fstream> // allows the use of ifstreams
 #include <string> // allows the use of strings
@@ -73,7 +74,7 @@ void solution(string a, string w){ // Give no return on the two strings
   }
 }
 
-
+```
 ### IDE's and implementation.
 
 When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to use Repl.it as my usual IDE unless specified 
