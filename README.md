@@ -77,4 +77,8 @@ void solution(string a, string w){ // Give no return on the two strings
 ```
 ### IDE's and implementation.
 
-When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to use Repl.it as my usual IDE unless specified. 
+When I was implementing the code, the main IDE I used was repl.it, I have used this before and it remains to be a very useful IDE, the fast testing and debugging options that it gives greatly improve the time that the project was completed in, because of this I will continue to use Repl.it as my usual IDE unless specified by a project brief. The repl.it IDE allows me to constantly test my program as I am building it, this allows me to look at any bugs that are within my code and debug it at each step instead of having a few to fix at the end of the program.
+
+### Debugging.
+
+As repl.it has many features that help with debugging for example having syntax colouring on the code to also having its own in built debugger. By using the debugger, I was anle to look at specific parts of the code in order to figure out what was wrong with the code. With debugging, the repl.it will show the line of code that it does not understand, I then used that to look back on the variables and processes within the program.
