@@ -5,6 +5,9 @@
 
 This project is to design an anagram solver, the user will be given an input area, here they can enter up to 3 letters and here they will be able to see a word that matches the most with the letters that they have entered, if they enter special characters or even numbers the acronym will not be shown and a message will print telling them that it is not letters. The purpose of the game is to allow the user to solve acronyms that they need to.
 
+### The Planning.
+
+The first stage to planning the project was creating the user stories, I used them to follow
 
 ### This is the code I used
 
